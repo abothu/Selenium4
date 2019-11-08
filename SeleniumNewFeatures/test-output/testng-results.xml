@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10307" started-at="2019-11-08T21:37:51Z" finished-at="2019-11-08T21:38:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10307" started-at="2019-11-08T21:37:51Z" finished-at="2019-11-08T21:38:01Z">
+      <class name="com.selenium.features.ui.test.NewSeleniumFeatures">
+        <test-method status="PASS" signature="before()[pri:0, instance:com.selenium.features.ui.test.NewSeleniumFeatures@68c4039c]" name="before" is-config="true" duration-ms="2079" started-at="2019-11-08T15:37:51Z" finished-at="2019-11-08T15:37:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="getElementLocation()[pri:0, instance:com.selenium.features.ui.test.NewSeleniumFeatures@68c4039c]" name="getElementLocation" duration-ms="2191" started-at="2019-11-08T15:37:53Z" finished-at="2019-11-08T15:37:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getElementLocation -->
+        <test-method status="PASS" signature="loadInsecureWebsite()[pri:0, instance:com.selenium.features.ui.test.NewSeleniumFeatures@68c4039c]" name="loadInsecureWebsite" duration-ms="408" started-at="2019-11-08T15:37:55Z" finished-at="2019-11-08T15:37:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadInsecureWebsite -->
+        <test-method status="PASS" signature="testOpenWindowInNewTab()[pri:0, instance:com.selenium.features.ui.test.NewSeleniumFeatures@68c4039c]" name="testOpenWindowInNewTab" duration-ms="3302" started-at="2019-11-08T15:37:56Z" finished-at="2019-11-08T15:37:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOpenWindowInNewTab -->
+        <test-method status="PASS" signature="testScreenShotOfSingleElement()[pri:0, instance:com.selenium.features.ui.test.NewSeleniumFeatures@68c4039c]" name="testScreenShotOfSingleElement" duration-ms="1007" started-at="2019-11-08T15:37:59Z" finished-at="2019-11-08T15:38:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testScreenShotOfSingleElement -->
+        <test-method status="PASS" signature="testUsageOfRelativeLocators()[pri:0, instance:com.selenium.features.ui.test.NewSeleniumFeatures@68c4039c]" name="testUsageOfRelativeLocators" duration-ms="1137" started-at="2019-11-08T15:38:00Z" finished-at="2019-11-08T15:38:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsageOfRelativeLocators -->
+        <test-method status="PASS" signature="after()[pri:0, instance:com.selenium.features.ui.test.NewSeleniumFeatures@68c4039c]" name="after" is-config="true" duration-ms="167" started-at="2019-11-08T15:38:01Z" finished-at="2019-11-08T15:38:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- com.selenium.features.ui.test.NewSeleniumFeatures -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
